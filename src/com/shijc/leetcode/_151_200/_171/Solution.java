@@ -1,4 +1,4 @@
-package com.shijc.leetcode._161_200._171;
+package com.shijc.leetcode._151_200._171;
 
 /**
  * 171.Excel表列序号

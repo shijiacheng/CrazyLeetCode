@@ -1,4 +1,4 @@
-package com.shijc.leetcode._161_200._198;
+package com.shijc.leetcode._151_200._198;
 
 /**
  * 198.打家劫舍

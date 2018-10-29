@@ -1,4 +1,4 @@
-package com.shijc.leetcode._161_200._172;
+package com.shijc.leetcode._151_200._172;
 
 /**
  * 172.阶乘后的零

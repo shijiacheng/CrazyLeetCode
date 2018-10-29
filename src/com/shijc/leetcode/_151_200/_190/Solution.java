@@ -1,4 +1,4 @@
-package com.shijc.leetcode._161_200._190;
+package com.shijc.leetcode._151_200._190;
 
 /**
  * 190.颠倒二进制位

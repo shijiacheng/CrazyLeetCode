@@ -1,4 +1,4 @@
-package com.shijc.leetcode._161_200._189;
+package com.shijc.leetcode._151_200._189;
 
 /**
  * 189.旋转数组

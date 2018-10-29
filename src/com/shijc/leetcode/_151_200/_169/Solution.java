@@ -1,4 +1,4 @@
-package com.shijc.leetcode._169;
+package com.shijc.leetcode._151_200._169;
 
 /**
  * 169.求众数
