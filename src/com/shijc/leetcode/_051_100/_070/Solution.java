@@ -1,4 +1,4 @@
-package com.shijc.leetcode._070;
+package com.shijc.leetcode._051_100._070;
 
 /**
  * 70.爬楼梯

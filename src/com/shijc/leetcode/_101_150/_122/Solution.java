@@ -1,4 +1,4 @@
-package com.shijc.leetcode._122;
+package com.shijc.leetcode._101_150._122;
 
 /**
  * 122.买卖股票的最佳时机 II

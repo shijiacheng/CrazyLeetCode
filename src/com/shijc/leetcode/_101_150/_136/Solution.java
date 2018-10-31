@@ -1,4 +1,4 @@
-package com.shijc.leetcode._136;
+package com.shijc.leetcode._101_150._136;
 
 /**
  * 136.只出现一次的数字

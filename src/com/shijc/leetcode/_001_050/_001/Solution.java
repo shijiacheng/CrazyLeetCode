@@ -1,4 +1,4 @@
-package com.shijc.leetcode._001;
+package com.shijc.leetcode._001_050._001;
 
 import java.util.Arrays;
 import java.util.HashMap;
