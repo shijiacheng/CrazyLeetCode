@@ -1,6 +1,4 @@
-package com.shijc.leetcode._042;
-
-import java.util.Scanner;
+package com.shijc.leetcode._001_050._042;
 
 /**
  * 42.Trapping Rain Water

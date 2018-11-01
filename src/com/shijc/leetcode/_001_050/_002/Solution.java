@@ -1,4 +1,4 @@
-package com.shijc.leetcode._002;
+package com.shijc.leetcode._001_050._002;
 
 import com.shijc.leetcode.ListNode;
 

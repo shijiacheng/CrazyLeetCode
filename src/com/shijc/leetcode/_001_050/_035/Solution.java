@@ -1,4 +1,4 @@
-package com.shijc.leetcode._035;
+package com.shijc.leetcode._001_050._035;
 
 /**
  * 35. Search Insert Position

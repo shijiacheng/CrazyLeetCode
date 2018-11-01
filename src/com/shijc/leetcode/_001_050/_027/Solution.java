@@ -1,4 +1,4 @@
-package com.shijc.leetcode._027;
+package com.shijc.leetcode._001_050._027;
 
 /**
  * 27. Remove Element

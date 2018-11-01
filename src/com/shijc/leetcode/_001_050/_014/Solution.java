@@ -1,4 +1,4 @@
-package com.shijc.leetcode._014;
+package com.shijc.leetcode._001_050._014;
 
 import java.util.Arrays;
 

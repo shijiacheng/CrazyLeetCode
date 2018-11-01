@@ -1,4 +1,4 @@
-package com.shijc.leetcode._015;
+package com.shijc.leetcode._001_050._015;
 
 import java.util.ArrayList;
 import java.util.Arrays;

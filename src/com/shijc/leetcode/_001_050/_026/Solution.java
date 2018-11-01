@@ -1,4 +1,4 @@
-package com.shijc.leetcode._026;
+package com.shijc.leetcode._001_050._026;
 
 /**
  * 26.Remove Duplicates from Sorted Array

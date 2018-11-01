@@ -1,4 +1,4 @@
-package com.shijc.leetcode._020;
+package com.shijc.leetcode._001_050._020;
 
 import java.util.Stack;
 

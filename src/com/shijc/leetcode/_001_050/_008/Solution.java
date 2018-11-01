@@ -1,4 +1,4 @@
-package com.shijc.leetcode._008;
+package com.shijc.leetcode._001_050._008;
 
 public class Solution {
     public int myAtoi(String str) {
