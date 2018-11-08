@@ -1,4 +1,4 @@
-package com.shijc.leetcode._235;
+package com.shijc.leetcode._201_250._235;
 
 import com.shijc.leetcode.TreeNode;
 
