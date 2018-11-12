@@ -1,4 +1,4 @@
-package com.shijc.leetcode._292;
+package com.shijc.leetcode._251_300._292;
 
 /**
  * 292.Nim游戏
