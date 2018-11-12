@@ -1,4 +1,4 @@
-package com.shijc.leetcode._344;
+package com.shijc.leetcode._301_350._344;
 
 /**
  * 344.翻转字符串
