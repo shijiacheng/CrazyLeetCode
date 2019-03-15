@@ -24,13 +24,22 @@ public class Solution {
         int b = n - 1;//第二个数组的索引
         int c = m + n - 1;
 
-        while (c >= 0) {
-            if (b < 0 || (a >= 0 && nums1[a] > nums2[b])) {
+//        while (c >= 0) {
+//            if (b < 0 || (a >= 0 && nums1[a] > nums2[b])) {
+//                nums1[c--] = nums1[a--];
+//            } else {
+//                nums1[c--] = nums2[b--];
+//            }
+//        }
+
+        while (c>=0){
+            if (b<0||a>=0 && nums1[a]>nums2[b]){
                 nums1[c--] = nums1[a--];
-            } else {
+            }else {
                 nums1[c--] = nums2[b--];
             }
         }
+
     }
 
     public static void main(String[] args) {
